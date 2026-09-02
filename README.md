@@ -7,7 +7,9 @@
 *Nine stars, one hidden code — and the sky's own way of working: to cooperate.*
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--2972--6511-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2972-6511)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19704117.svg)](https://doi.org/10.5281/zenodo.19704117)
+
 [![Ecosystem](https://img.shields.io/badge/ecosystem-topic%3Ass9co-1f6feb)](https://github.com/search?q=user%3Akiki054-n+topic%3Ass9co&type=repositories)
 
 </div>
